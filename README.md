@@ -12,3 +12,4 @@ A fullstack career path learning notes
 8.  HTML & CSS, Jon Duckett - https://bookshop.org/books/html-and-css-design-and-build-websites/9781118008188
 9.  Eloquent JavaScript - a free EBook! - https://eloquentjavascript.net/
 10. Cracking the Coding Interview (6th Edition), Gayle Laakamann McDowell - https://bookshop.org/books/cracking-the-coding-interview-189-programming-questions-and-solutions/9780984782857
+
